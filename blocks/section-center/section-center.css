@@ -1,0 +1,12 @@
+.section-center {
+    margin: 0 auto;
+    /* width: 90vw; */
+    /* width: calc(100vw - 32px); */
+    min-width: 320px;
+    margin: 0 5vw;
+    /*  
+    320px - 100vw (100%)
+    16px  -  x
+    x = 16 * 100 / 320
+    */
+}
