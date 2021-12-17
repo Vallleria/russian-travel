@@ -1,6 +1,16 @@
-.header__lang-link{
+.header__lang-link {
     color: #FFF;
-    border-bottom: 1px solid #FFF;
     font-weight: normal;
     font-size: 18px;
+}
+
+.header__lang-link:hover {
+    transition: 0.5s;
+    color: rgba(75, 70, 70, 0.3);
+}
+
+@media screen and (min-width: 768px) {
+    .header__lang-link {
+        font-size: 24px;
+    }
 }

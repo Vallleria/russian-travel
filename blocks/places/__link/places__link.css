@@ -4,4 +4,9 @@
     border-bottom: 1px solid #FFF;
     font-weight: 400;
     font-size: 18px;
+    line-height: 22px;
 }
+  .places__link:hover{
+    transition:  0.5s ;
+    background: rgba(75, 70, 70, 0.3);
+  }

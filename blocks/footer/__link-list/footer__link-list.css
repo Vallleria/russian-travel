@@ -6,3 +6,12 @@
     flex-direction: column;
     margin-bottom: 48px;
 }
+@media screen and (min-width: 768px) {
+    .footer__link-list{
+        flex-direction: row;
+        margin: 0;
+        justify-content: space-between;
+        
+
+    }
+}

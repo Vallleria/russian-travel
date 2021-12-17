@@ -1,0 +1,10 @@
+.center-image{
+    margin: 0;
+}
+
+@media screen and (min-width: 1024px) {
+    .center-image{
+        margin: 0 4.6vw;
+    }
+}
+
