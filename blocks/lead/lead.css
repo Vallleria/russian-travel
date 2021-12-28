@@ -1,3 +1,15 @@
-.lead{
+.lead {
     margin-bottom: 61px;
+}
+
+@media screen and (min-width: 768px) {
+    .lead {
+        margin-bottom: 87px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .lead {
+        margin-bottom: 95px;
+    }
 }

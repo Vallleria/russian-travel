@@ -7,21 +7,30 @@
     min-height: 200px;
     text-align: center;
     transition: all 0.5s linear;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(42, 44, 47, 30%);
 }
 
 .cover__item:hover {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(42, 44, 47, 80%);
 }
 
 @media screen and (min-width: 768px) {
     .cover__item {
+        min-width: 768px;
         min-height: 480px;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .cover__item {
+        min-width: 1024px;
+        min-height: 640px;
+       
     }
 }
 
 @media screen and (min-width: 1280px) {
     .cover__item {
-        margin-bottom: 92px;
+        min-width: 1184px;
+        min-height: 740px;
     }
 }

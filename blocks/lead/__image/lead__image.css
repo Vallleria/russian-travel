@@ -1,5 +1,29 @@
 .lead__image {
     width: 100%;
     margin-bottom: 8px;
+    margin: 0;
+    display: block;
+    margin-bottom: 6px;
 }
 
+@media screen and (min-width: 768px) {
+    .lead__image {
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .lead__image {
+        max-width: 928px;
+        margin: 0 auto;
+        margin-bottom: 7px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__image {
+        max-width: 984px;
+        margin-bottom: 8px;
+
+    }
+}

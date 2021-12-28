@@ -9,13 +9,13 @@
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
+
     }
 }
 
 @media screen and (min-width: 1280px) {
     .footer {
-        margin: 0;
-        margin-right: 28px;
-        margin-left: 28px;
+        margin: 0 auto;
+        max-width: 1184px;
     }
 }
