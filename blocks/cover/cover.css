@@ -6,15 +6,16 @@
     margin-bottom: 64px;
 
 }
+
 @media screen and (min-width: 768px) {
-    .cover{
-    
-       
+    .cover {
+        margin-bottom: 56px
     }
 }
+
 @media screen and (min-width: 1024px) {
-    .cover{
-        margin-bottom: 96px;
+    .cover {
+        margin-bottom: 87px;
     }
 }
 
@@ -22,6 +23,6 @@
     .cover {
         max-width: 1184px;
         margin: 0 auto;
-        margin-bottom: 94px;
+        margin-bottom: 93px;
     }
 }

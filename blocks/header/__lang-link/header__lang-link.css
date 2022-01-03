@@ -4,6 +4,7 @@
     font-size: 18px;
 }
 
+
 .header__lang-link:hover {
     transition: 0.5s;
     color: rgba(75, 70, 70, 0.3);
