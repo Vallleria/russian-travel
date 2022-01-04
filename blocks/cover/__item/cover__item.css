@@ -16,21 +16,20 @@
 
 @media screen and (min-width: 768px) {
     .cover__item {
-        min-width: 768px;
         min-height: 480px;
     }
 }
+
 @media screen and (min-width: 1024px) {
     .cover__item {
-        min-width: 1024px;
         min-height: 640px;
-       
+
     }
 }
 
 @media screen and (min-width: 1280px) {
     .cover__item {
-        min-width: 1184px;
         min-height: 740px;
+        width: 100%;
     }
 }
