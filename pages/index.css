@@ -21,7 +21,6 @@
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
-@import url(../blocks/center-image/center-image.css);
 
 
 
@@ -47,6 +46,7 @@
 @import url(../blocks/places/__link/places__link.css);
 @import url(../blocks/places/__website/pleces__website.css);
 @import url(../blocks/places/__paragraphs/places__paragraphs.css);
+@import url(../blocks/places/__newline/places__newline.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
 @import url(../blocks/places/__item/places__item.css);
 @import url(../blocks/places/__img/places__img.css);

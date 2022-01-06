@@ -14,19 +14,10 @@
 
 @media screen and (min-width: 1024px) {
     .intro__text {
-        margin-bottom: 8px;
+        margin-bottom: 34px;
     }
 
 }
-
-/* 
-@media screen and (min-width: 1280px) {
-    .intro__text {
-        width: 690px;
-        margin-bottom: 14px;
-    }
-
-} */
 
 
 @media screen and (min-width: 1280px) {

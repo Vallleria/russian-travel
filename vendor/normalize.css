@@ -31,13 +31,7 @@
   main {
     display: block;
   }
-  ul{
-    list-style: none;
-  }
-  li{
-    list-style: none;
-  }
-  
+ 
   /**
    * Correct the font size and margin on `h1` elements within `section` and
    * `article` contexts in Chrome, Firefox, and Safari.
